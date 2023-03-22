@@ -25,7 +25,7 @@ We investigated two approaches :
 Two collab notebooks are available for in the repository : one for each approach. Models were saved as a state-dict. Note that you might need to change paths through the code to make it work in your drive. Our folder is organised in the following way : 
 
 ```
-├── ProjeDL
+├── Projet_DL
  └── state_dict
    └── hybride
    └── label_only
