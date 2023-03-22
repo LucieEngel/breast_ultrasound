@@ -5,7 +5,7 @@ Authors : Céline Carré, Alice Simon and Lucie Engel
 
 ## Context
 
-Although in France mammogram is the reference examination for breast cancer screening program, ultrasound can be performed as well for women with dense breasts or to better analyse a breast tumor detected on the mammogram. 
+Although in France mammogram is the reference examination for the breast cancer screening program, ultrasound can be performed as well for women with dense breasts or to better analyse a breast tumor detected on the mammogram. 
 
 ## Dataset
 
@@ -22,7 +22,7 @@ We investigated two approaches :
 
 ## Code
 
-Two collab notebooks are available for in the repository : one for each approach. Models were saved as a state-dict. Note that you might need to change paths through the code to make it work in your drive. Our folder is organised in the following way : 
+Two collab notebooks are available in the repository, one for each approach. Models were saved as state-dicts. Note that you might need to change paths in the code to make it work in your drive. Our folder is organised in the following way : 
 
 ```
 ├── Projet_DL
