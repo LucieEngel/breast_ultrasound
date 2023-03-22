@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 Our goal is to predict both the segmentation mask and the class of the exam (normal, benign tumor, malignant tumor). We combine two tasks : a segmentation task and a classification task. 
 We investigated two approaches : 
 * a sequential approach : a UNet model and after a ResNet50
-* a hybrid model : a UNet model with a classification head on top on the features of the encoder. 
+* a hybrid model : a UNet model with a classification head on top of the features of the encoder. 
 
 ## Code
 
