@@ -39,9 +39,10 @@ Results are presented in the pdf presentation.
 ## Conclusion
 
 In conclusion, we obtain good results for this school project. If we had more time, we would investigate the following ideas : 
-* correction of the dataset imbalance 
+* correct the dataset imbalance 
 * evaluate our models' performances on a independant test set (another country, another echograph, another clinical center)
 * use weights in the loss : false negatives must be prevented at all cost.
+
 This algorithm could be used as a training tools for medical interns, or as a safety net for trained radiologists. It could also be integrated to a portable ultrasound probe for medical deserts or countries with poor medical coverage.
 
 ## References 
