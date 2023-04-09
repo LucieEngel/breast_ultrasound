@@ -34,7 +34,7 @@ Two collab notebooks are available in the repository, one for each approach. Mod
 ```
 ## Results
 
-Results are presented in the pdf presentation : Breats cancer detection on ultrasound.pdf.
+Results are presented in the pdf presentation : Breats cancer detection on ultrasound.pdf. The model state-dicts can be found in the tag section for each model. 
 
 ## Conclusion
 
